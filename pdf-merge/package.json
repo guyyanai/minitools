@@ -9,7 +9,6 @@
   "author": "Guy Yanai",
   "license": "ISC",
   "dependencies": {
-    "fs": "^0.0.1-security",
     "pdf-merger-js": "^3.4.0"
   }
 }
