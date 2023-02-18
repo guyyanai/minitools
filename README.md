@@ -1,5 +1,5 @@
 # minitools
-This repository contains minitools such as a pdf merger as commands. The repository is work in progress, any recommendations for more tools are welcome.
+This repository contains CLI minitools such as a pdf merger. The repository is a work in progress, any recommendations for more tools are welcome.
 ## pdf-merge
 ### **Setup**
 1. Clone this repository.
